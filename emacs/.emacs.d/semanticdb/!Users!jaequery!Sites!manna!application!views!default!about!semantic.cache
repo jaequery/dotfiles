@@ -1,0 +1,22 @@
+;; Object about/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "about/"
+  :tables
+  (list
+    (semanticdb-table "index.phtml"
+      :major-mode 'html-mode
+      :tags 
+        '( ("Manna" anchor nil nil [347 350])
+            ("Follow Us" anchor nil nil [1533 1536])
+            ("Contact" anchor nil nil [2337 2340])
+            ("Go to <br/><strong>menu <i class=\"fa fa-arrow-circle-o-right\">" anchor nil nil [4670 4673])
+            ("Check" anchor nil nil [6285 6288])
+            ("Go to<br/> <strong>reservations <i class=\"fa fa-arrow-circle-o-right\">" anchor nil nil [7428 7431]))          
+      :file "index.phtml"
+      :pointmax 7810
+      :fsize 7808
+      :lastmodtime '(22062 50832 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!jaequery!Sites!manna!application!views!default!about!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,72 @@
+;; Object public/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "public/"
+  :tables
+  (list
+    (semanticdb-table "test.php"
+      :major-mode 'html-mode
+      :tags 
+        '( ("Upload" section nil nil [1079 1169])
+            ("Upload" section nil nil [1169 1234])
+            ("?>
+
+<?php
+   /*
+   <script type=\"application/javascript\" src=\"http://content.jwplatform.com/libraries/h7IGgkEU.js\">" section nil nil [1234 1392])
+            ("Loading the player..." section nil nil [1392 1552])
+            ("var playerInstance = jwplayer(\"myElement\");
+     playerInstance.setup({
+     file: \"K1ZkZ661\",
+     image: \"\",
+     width: 640,
+     height: 360,
+     title: 'Basic Video Embed',
+     description: 'A video with a basic title and description!',
+     mediaid: '123456'
+     });
+     */
+     ?>
+
+
+<form method=\"POST\" action=\"<?php echo $link; ?>\" enctype=\"multipart/form-data\">
+  <fieldset>
+    <input type=\"file\" name=\"file\" />
+    <button type=\"submit\">Upload" section nil nil [1552 2080])
+            ("var formData = new FormData($('.file_upload_form')[0]);
+  $.ajax({
+  url: 'upload_file.php', //server script to process data
+  type: 'POST',
+  xhr: function() {  // custom xhr
+  myXhr = $.ajaxSettings.xhr();
+  if(myXhr.upload){ // check if upload property exists
+  // for handling the progress of the upload
+  myXhr.upload.addEventListener('progress',progressHandlingFunction, false);
+  }
+  return myXhr;
+  },
+  success: function(result)
+  {
+  console.log($.ajaxSettings.xhr().upload);
+  alert(result);
+  },
+  // Form data
+  data: formData,
+  //Options to tell JQuery not to process data or worry about content-type
+  cache: false,
+  contentType: false,
+  processData: false
+  });
+
+  function progressHandlingFunction(e){
+  if(e.lengthComputable){
+  $(\"#progress\").text(e.loaded + \" / \" + e.total);
+  }
+  }" section nil nil [2080 2907]))          
+      :file "test.php"
+      :pointmax 2907
+      :fsize 2954
+      :lastmodtime '(22168 8755 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!jaequery!Sites!denizen!public!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

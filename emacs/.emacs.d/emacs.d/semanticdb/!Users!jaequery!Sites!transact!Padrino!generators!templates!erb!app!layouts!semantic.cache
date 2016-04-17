@@ -1,0 +1,108 @@
+;; Object layouts/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "layouts/"
+  :tables
+  (list
+    (semanticdb-table "application.erb.tt"
+      :major-mode 'html-mode
+      :tags 
+        '( ("END META SECTION -->
+
+  <!-- CSS INCLUDE -->
+  <link rel=\"stylesheet\" type=\"text/css\" id=\"theme\" href=\"/admin/css/theme-default.css\"/>
+  <link rel=\"stylesheet\" type=\"text/css\" href=\"/admin/webix/codebase/webix.css\"/>
+  <!-- EOF CSS INCLUDE -->
+
+  <!-- START FRAMEWORK PLUGINS -->
+  <script type=\"text/javascript\" src=\"/admin/js/plugins/jquery/jquery.min.js\">" section nil nil [67 682])
+            ("END FRAMEWORK PLUGINS -->" section nil nil [682 770])
+            ("END FRAMEWORK PLUGINS -->" section nil nil [770 861])
+            ("END FRAMEWORK PLUGINS -->" section nil nil [861 955])
+            ("END FRAMEWORK PLUGINS -->" section nil nil [955 1075])
+            ("START PAGE CONTAINER -->
+<div class=\"page-container\">
+  <!-- START PAGE SIDEBAR -->
+  <div class=\"page-sidebar\">
+    <!-- START X-NAVIGATION -->
+    <ul class=\"x-navigation\">
+      <li class=\"xn-logo\">
+        <%%= link_to 'Transact', url(:base, :index), :title => 'Transact Admin' %>" section (:members 
+              ( ("Navigation" anchor nil nil [1422 1425])
+                ("END X-NAVIGATION VERTICAL -->
+
+    <%%= yield %>" anchor nil nil [2343 2346]))              ) nil [1075 3538])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [3538 3624])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [3624 3737])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [3737 3834])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [3834 3929])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [3929 4008])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [4008 4108])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [4108 4194])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [4194 4307])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [4307 4405])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [4405 4483])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [4483 4567])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [4567 4649])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [4649 4732])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [4732 4814])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [4814 4882])
+            ("END PAGE PLUGINS -->
+
+<!-- ADMIN PLUGINS -->
+<script type=\"text/javascript\" src=\"/admin/js/jsoneditor.js\">" section nil nil [4882 5000])
+            ("END ADMIN PLUGINS -->" section nil nil [5000 5071])
+            ("END ADMIN PLUGINS -->" section nil nil [5071 5137])
+            ("END ADMIN PLUGINS -->" section nil nil [5137 5247]))          
+      :file "application.erb.tt"
+      :pointmax 5247
+      :fsize 5246
+      :lastmodtime '(22065 21042 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!jaequery!Sites!transact!Padrino!generators!templates!erb!app!layouts!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

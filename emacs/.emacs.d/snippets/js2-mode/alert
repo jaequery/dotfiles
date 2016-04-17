@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: alert
+# key: al
+# binding: direct-keybinding
+# --
+alert($1);

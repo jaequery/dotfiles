@@ -1,0 +1,19 @@
+ls
+ls
+vi user.erb 
+cd ../../
+fgrep -R "	def output_data" *
+cd ../../
+fgrep -R "def output_data*" *
+cd ..
+cd ..
+cd ..
+ls
+padrino 
+padrino rake
+padrino g model Topic
+git diff -p
+ls
+ls
+cd ..
+./reinstall 

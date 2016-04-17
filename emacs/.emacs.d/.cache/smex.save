@@ -1,0 +1,40 @@
+
+;; ----- smex-history -----
+(
+ server-force-delete
+ helm-M-x
+ neotree-hide
+ neotree
+ helm-mode
+ list-packages
+ replace-string
+)
+
+;; ----- smex-data -----
+(
+ (dired . 1)
+ (server-force-delete . 5)
+ (ibuffer-list-buffers . 1)
+ (electric-buffer-list . 1)
+ (minibuffer-electric-default-mode . 1)
+ (electric-pair-mode . 2)
+ (web-mode-element-close . 2)
+ (viper-mode . 1)
+ (javascript-mode . 4)
+ (tabbar-mode . 2)
+ (neotree . 14)
+ (replace-string . 15)
+ (package-install . 3)
+ (html-mode . 4)
+ (list-packages . 4)
+ (js2-mode . 4)
+ (docean-power-on-droplet . 1)
+ (docean-droplet-list-mode . 1)
+ (docean-action-list . 1)
+ (dockerfile-mode . 2)
+ (yaml-mode . 1)
+ (js-mode . 1)
+ (helm-mode . 3)
+ (helm-M-x . 3)
+ (neotree-hide . 1)
+)

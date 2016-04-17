@@ -1,0 +1,9 @@
+;; Object herbs/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "herbs/"
+  :tables
+  (list
+)
+  :file "!Users!jaequery!Sites!herbs!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

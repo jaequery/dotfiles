@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: new public function
+# key: npf
+# binding: direct-keybinding
+# --
+public function $1($2){
+  $3
+}

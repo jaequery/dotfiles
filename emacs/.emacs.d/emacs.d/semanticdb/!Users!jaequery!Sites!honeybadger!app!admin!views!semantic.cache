@@ -1,0 +1,36 @@
+;; Object views/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "views/"
+  :tables
+  (list
+    (semanticdb-table "configs.erb"
+      :major-mode 'html-mode
+      :tags 
+        '( ("Configuration
+      <!-- <small>add, modify, or delete configs" section (:members 
+              ( ("Dashboard" anchor nil nil [292 295])
+                ("Configs" anchor nil nil [370 373])
+                ("Add New +" anchor nil nil [635 638])
+                ("Edit" anchor nil nil [1533 1536])
+                ("Delete" anchor nil nil [1635 1638]))              ) nil [158 2052])
+            ("$(function(){
+
+    $('.datatable').DataTable({
+    \"paging\": true,
+    \"lengthChange\": true,
+    \"searching\": true,
+    \"ordering\": true,
+    \"order\": [[ 0, \"desc\" ]],
+    \"info\": true,
+    \"autoWidth\": true
+    });
+
+    });" section nil nil [2052 2302]))          
+      :file "configs.erb"
+      :pointmax 2302
+      :fsize 2241
+      :lastmodtime '(22076 19456 0 0)
+      :unmatched-syntax nil))
+  :file "!Users!jaequery!Sites!honeybadger!app!admin!views!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")
