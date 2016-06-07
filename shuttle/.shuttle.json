@@ -22,12 +22,22 @@
             {
               "cmd": "ssh jae@ec2-54-67-18-188.us-west-1.compute.amazonaws.com",
               "inTerminal": "tab",
-              "name": "Markett - AWS",
-              "theme": "basic",
+              "name": "aws-1.markett.com",
             }
           ]
         }
-      ]
+      ],
+     "Basecamp": [
+        {
+          "Hakberry": [
+            {
+              "cmd": "ssh jae@23.111.128.102",
+              "inTerminal": "tab",
+              "name": "x.hakberry.com",
+            }
+          ]
+        }
+     ]
     }
   ]
 }
