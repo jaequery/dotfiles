@@ -23,9 +23,6 @@
 (display-time-mode 1)
 ;; (display-battery-mode 1)
 
-;; Small fringes
-(set-fringe-mode '(1 . 1))
-
 ;; Emacs gurus don't need no stinking scroll bars
 (when (fboundp 'toggle-scroll-bar)
   (toggle-scroll-bar -1))

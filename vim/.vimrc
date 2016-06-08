@@ -31,7 +31,7 @@ set softtabstop=4
 "let g:nerdtree_tabs_open_on_gui_startup=0
 
 set background=dark
-colorscheme wombat
+
 
 " jaequery
 nnoremap n nzz
@@ -43,4 +43,3 @@ set scrolloff=10
 set noswapfile
 set gdefault
 set wildmode=longest,list
-
