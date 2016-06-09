@@ -26,3 +26,4 @@ alias show_open_ports='lsof -i -P|grep LISTEN'
 alias l='ls'
 alias ll='ls -lnha'
 alias st='/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl'
+
