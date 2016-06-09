@@ -20,11 +20,9 @@ unsetopt correct
 # set paths
 export PATH=/usr/local/bin:$PATH
 export PATH=/usr/local/sbin:$PATH
-export PATH="/opt/local/bin:/opt/local/sbin:/usr/local/share/npm/lib/node_modules:/usr/local/share/npm/bin/:$PATH"
 
 # alias
 alias show_open_ports='lsof -i -P|grep LISTEN'
 alias l='ls'
 alias ll='ls -lnha'
-
-
+alias st='/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl'
