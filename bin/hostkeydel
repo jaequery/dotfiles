@@ -1,0 +1,3 @@
+#!/bin/bash
+line=$1
+sed -ie "${line}d;" ~/.ssh/known_hosts
