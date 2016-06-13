@@ -2,7 +2,7 @@
 export ZSH=$HOME/.oh-my-zsh
 
 #export ZSH_THEME="afowler"
-export ZSH_THEME="sunrise"
+export ZSH_THEME="afowler"
 
 # Comment this out to disable weekly auto-update checks
 DISABLE_AUTO_UPDATE="true"
@@ -27,3 +27,4 @@ alias l='ls'
 alias ll='ls -lnha'
 alias st='/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl'
 
+$(dinghy env)
