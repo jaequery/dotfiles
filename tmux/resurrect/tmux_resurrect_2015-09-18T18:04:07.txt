@@ -1,0 +1,45 @@
+pane	0	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	4	1	:zsh	1	:*	0	:/Users/jaequery/Sites	1	zsh	:
+pane	6	1	:zsh	1	:*	0	:/Users/jaequery/Desktop	1	zsh	:
+pane	calendar	1	:zsh	1	:*	0	:/Users/jaequery/Sites/calendar	1	zsh	:
+pane	calendar	2	:node	0	:-	0	:/Users/jaequery/Sites/calendar	1	node	:node app.js
+pane	huske	1	:emacs	1	:*	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	huske	2	:docker	0	: 	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	huske	3	:server	0	:-	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	huske	4	:zsh	0	: 	0	:/Users/jaequery/Sites/huske/ruby/huske/app	1	zsh	:
+pane	huske	5	:console	0	: 	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	iueast	1	:emacs	0	:#-	0	:/Users/jaequery/Sites/iueast/public	1	sh	:/bin/sh /usr/local/bin/em
+pane	iueast	2	:zsh	0	: 	0	:/Users/jaequery/Sites/iueast/public/images	1	zsh	:
+pane	iueast	3	:git	1	:*	0	:/Users/jaequery/Sites/iueast/application	1	zsh	:
+pane	iueast	4	:docker	0	: 	0	:/Users/jaequery/Sites/iueast/public	1	zsh	:
+pane	iueast	5	:docker	0	: 	0	:/Users/jaequery/Sites/iueast/public	1	zsh	:
+pane	iueast	6	:live server	0	: 	0	:/Users/jaequery/Sites/iueast/public	1	ssh	:ssh jae@qujae
+pane	processing	1	:zsh	0	: 	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	2	:git	0	: 	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	3	:ssh	0	:-	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	4	:ssh	1	:*	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	5	:ssh	0	: 	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	6	:ssh	0	: 	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+window	0	1	1	:*	e510,158x37,0,0,21
+window	4	1	1	:*	6517,158x37,0,0,18
+window	6	1	1	:*	e50f,158x37,0,0,20
+window	calendar	1	1	:*	e511,158x37,0,0,22
+window	calendar	2	0	:-	e512,158x37,0,0,23
+window	huske	1	1	:*	c9be,158x37,0,0,1
+window	huske	2	0	: 	c9bf,158x37,0,0,2
+window	huske	3	0	:-	c9c0,158x37,0,0,3
+window	huske	4	0	: 	c9c1,158x37,0,0,4
+window	huske	5	0	: 	c9c2,158x37,0,0,5
+window	iueast	1	0	:#-	c9c3,158x37,0,0,6
+window	iueast	2	0	: 	c9c4,158x37,0,0,7
+window	iueast	3	1	:*	c9c5,158x37,0,0,8
+window	iueast	4	0	: 	c9c6,158x37,0,0,9
+window	iueast	5	0	: 	650f,158x37,0,0,10
+window	iueast	6	0	: 	6516,158x37,0,0,17
+window	processing	1	0	: 	6510,158x37,0,0,11
+window	processing	2	0	: 	6511,158x37,0,0,12
+window	processing	3	0	:-	6512,158x37,0,0,13
+window	processing	4	1	:*	6513,158x37,0,0,14
+window	processing	5	0	: 	6514,158x37,0,0,15
+window	processing	6	0	: 	6515,158x37,0,0,16
+state	calendar	iueast

@@ -1,0 +1,9 @@
+pane	huse	1	:emacs	1	:*	0	:/Users/jaequery/Sites/iueast/public	1	sh	:/bin/sh /usr/local/bin/em
+pane	huse	2	:zsh	0	:#	0	:/Users/jaequery/Sites/iueast/public	1	zsh	:
+pane	huse	3	:git	0	:#	0	:/Users/jaequery/Sites/iueast/application	1	zsh	:
+pane	huse	4	:docker	0	:-	0	:/Users/jaequery/Sites/iueast/public	1	docker	:docker exec -it iueast.app bash
+window	huse	1	1	:*	d1bd,196x58,0,0,0
+window	huse	2	0	:#	d1be,196x58,0,0,1
+window	huse	3	0	:#	d1bf,196x58,0,0,2
+window	huse	4	0	:-	d1c0,196x58,0,0,3
+state	huse	

@@ -1,0 +1,5 @@
+pane	huske	1	:server	0	:-	0	:/Users/jaequery/Sites/huske/ruby	1	ruby	:/Users/jaequery/.rvm/gems/ruby-1.9.3-p374/bin/padrino       
+pane	huske	2	:code	1	:*	0	:/Users/jaequery/Sites/huske/ruby	1	zsh	:
+window	huske	1	0	:-	c8bd,156x37,0,0,0
+window	huske	2	1	:*	c8be,156x37,0,0,1
+state	huske	

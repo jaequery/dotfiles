@@ -1,0 +1,21 @@
+pane	huske	1	:emacs	1	:*	0	:/Users/jaequery/Sites/iueast/public	1	sh	:/bin/sh /usr/local/bin/em
+pane	huske	2	:zsh	0	:-	0	:/Users/jaequery/Sites/iueast/public	1	zsh	:
+pane	huske	3	:git	0	: 	0	:/Users/jaequery/Sites/iueast/application	1	zsh	:
+pane	huske	4	:docker	0	: 	0	:/Users/jaequery/Sites/iueast/public	1	docker	:docker exec -it iueast.app bash
+pane	processing	1	:zsh	0	: 	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	2	:git	0	: 	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	3	:ssh	0	:-	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	ssh	:ssh procbastion
+pane	processing	4	:ssh	1	:*	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	ssh	:ssh procbastion
+pane	processing	5	:ssh	0	: 	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	6	:ssh	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	ssh	:ssh procbastion
+window	huske	1	1	:*	6b12,196x59,0,0,13
+window	huske	2	0	:-	d5be,196x59,0,0,1
+window	huske	3	0	: 	d5bf,196x59,0,0,2
+window	huske	4	0	: 	d5c0,196x59,0,0,3
+window	processing	1	0	: 	d5c1,196x59,0,0,4
+window	processing	2	0	: 	d5c2,196x59,0,0,5
+window	processing	3	0	:-	d5c3,196x59,0,0,6
+window	processing	4	1	:*	d5c4,196x59,0,0,7
+window	processing	5	0	: 	6b11,196x59,0,0,12
+window	processing	6	0	:#	6b0f,196x59,0,0,10
+state	huske	processing

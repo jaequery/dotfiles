@@ -1,0 +1,19 @@
+pane	0	1	:zsh	1	:*	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	0	2	:zsh	0	:-	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	2	1	:sh	1	:*	0	:/Users/jaequery/Sites/huske/ruby/huske	1	sh	:/bin/sh /usr/local/bin/em
+pane	2	2	:zsh	0	: 	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	2	3	:zsh	0	:-	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	3	1	:zsh	1	:*	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	4	1	:zsh	1	:*	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	5	1	:zsh	1	:*	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	6	1	:zsh	1	:*	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+window	0	1	1	:*	c9bd,158x37,0,0,0
+window	0	2	0	:-	c9be,158x37,0,0,1
+window	2	1	1	:*	c9c1,158x37,0,0,4
+window	2	2	0	: 	c9c2,158x37,0,0,5
+window	2	3	0	:-	c9c3,158x37,0,0,6
+window	3	1	1	:*	c9c4,158x37,0,0,7
+window	4	1	1	:*	c9c5,158x37,0,0,8
+window	5	1	1	:*	c9c6,158x37,0,0,9
+window	6	1	1	:*	650f,158x37,0,0,10
+state	6	

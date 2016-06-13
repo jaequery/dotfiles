@@ -1,0 +1,11 @@
+pane	huske	1	:server	1	:*	0	:/Users/jaequery/Sites/huske/v2	1	ruby	:bash
+pane	huske	2	:cli	0	:#-	0	:/Users/jaequery/Sites/huske/v2	1	zsh	:
+pane	transact	1	:server	0	:#	0	:/Users/jaequery/Sites/transact	1	ruby	:/Users/jaequery/.rvm/gems/ruby-1.9.3-p374/bin/padrino   
+pane	transact	2	:test	0	:-	0	:/Users/jaequery/Sites/transact	1	ruby	:/Users/jaequery/.rvm/gems/ruby-1.9.3-p374/bin/autotest  
+pane	transact	3	:cli	1	:*	0	:/Users/jaequery/Sites/transact	1	zsh	:
+window	huske	1	1	:*	c8bd,156x37,0,0,0
+window	huske	2	0	:#-	c8be,156x37,0,0,1
+window	transact	1	0	:#	c8bf,156x37,0,0,2
+window	transact	2	0	:-	c8c0,156x37,0,0,3
+window	transact	3	1	:*	c8c1,156x37,0,0,4
+state	transact	

@@ -1,0 +1,3 @@
+pane	huske	1	:zsh	1	:*	0	:/Users/jaequery/.tmux/plugins/tpm	1	zsh	:
+window	huske	1	1	:*	c8bd,156x37,0,0,0
+state	huske	

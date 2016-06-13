@@ -1,0 +1,7 @@
+pane	huske	1	:emacs	1	:*	0	:/Users/jaequery/Sites/huske/ruby/huske	1	sh	:/bin/sh /usr/local/bin/em
+pane	huske	2	:zsh	0	:-	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	huske	3	:server	0	: 	0	:/Users/jaequery/Sites/huske/ruby/huske	1	bash	:/bin/bash ./start_dev.sh
+window	huske	1	1	:*	c9bd,158x37,0,0,0
+window	huske	2	0	:-	c9be,158x37,0,0,1
+window	huske	3	0	: 	c9bf,158x37,0,0,2
+state	huske	huske

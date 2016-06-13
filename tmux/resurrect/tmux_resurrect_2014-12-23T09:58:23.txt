@@ -1,0 +1,5 @@
+pane	huske	1	:server	1	:*	0	:/Users/jaequery/Sites/huske/v2	1	ruby	:bash
+pane	huske	2	:cli	0	:#-	0	:/Users/jaequery/Sites/huske/v2	1	zsh	:
+window	huske	1	1	:*	c8bd,156x37,0,0,0
+window	huske	2	0	:#-	c8be,156x37,0,0,1
+state	huske	huske

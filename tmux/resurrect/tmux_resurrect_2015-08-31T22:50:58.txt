@@ -1,0 +1,9 @@
+pane	0	1	:emacs	1	:*	0	:/Users/jaequery/Sites/iueast/public	1	sh	:/bin/sh /usr/local/bin/em
+pane	0	2	:zsh	0	: 	0	:/Users/jaequery/Sites/iueast/public	1	zsh	:
+pane	0	3	:git	0	: 	0	:/Users/jaequery/Sites/iueast/application	1	zsh	:
+pane	0	4	:docker	0	:-	0	:/Users/jaequery/Sites/iueast/public	1	docker	:docker exec -it iueast.app bash
+window	0	1	1	:*	c9bd,158x37,0,0,0
+window	0	2	0	: 	c9be,158x37,0,0,1
+window	0	3	0	: 	c9bf,158x37,0,0,2
+window	0	4	0	:-	c9c0,158x37,0,0,3
+state	0	

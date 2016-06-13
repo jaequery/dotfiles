@@ -1,0 +1,98 @@
+pane	calendar	1	:emacs	1	:*	0	:/Users/jaequery/Sites/calendar	1	emacs-24.5	:emacs .
+pane	calendar	2	:server	0	: 	0	:/Users/jaequery/Sites/calendar	1	zsh	:
+pane	calendar	3	:gulp	0	: 	0	:/Users/jaequery/Sites/calendar	1	zsh	:
+pane	calendar	4	:zsh	0	:-	0	:/Users/jaequery/Sites/calendar/app/src/css	1	zsh	:
+pane	honeybadger	1	:emacs	1	:*	0	:/Users/jaequery/Sites/honeybadger	1	emacs-24.5	:emacs .
+pane	honeybadger	2	:server	0	: 	0	:/Users/jaequery/Sites/honeybadger	1	ruby	:ruby /Users/jaequery/.rvm/gems/ruby-2.2.1/bin/padrino s   
+pane	honeybadger	3	:git	0	: 	0	:/Users/jaequery/Sites/honeybadger	1	zsh	:
+pane	honeybadger	4	:zsh	0	: 	0	:/Users/jaequery/Sites/honeybadger/public/bower_components/bootstrap/dist/css	1	zsh	:
+pane	honeybadger	5	:zsh	0	:-	0	:/Users/jaequery/Sites/honeybadger/app/views	1	zsh	:
+pane	huske	1	:emacs	0	:#	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	huske	1	:emacs	0	:#	1	:/Users/jaequery/Sites/huske/ruby/huske	0	zsh	:
+pane	huske	2	:docker	1	:*	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	huske	3	:server	0	:-	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	huske	4	:zsh	0	:#	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	huske	5	:console	0	: 	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	iueast	1	:emacs	0	:#-	0	:/Users/jaequery/Sites/iueast/public	1	emacs-24.5	:emacs .
+pane	iueast	2	:zsh	0	: 	0	:/Users/jaequery/Sites/iueast/public/images	1	zsh	:
+pane	iueast	3	:git	0	: 	0	:/Users/jaequery/Sites/iueast	1	zsh	:
+pane	iueast	4	:docker	0	: 	0	:/Users/jaequery/Sites/iueast/public	1	zsh	:
+pane	iueast	5	:docker	0	: 	0	:/Users/jaequery/Sites/iueast/public	1	zsh	:
+pane	iueast	6	:live server	1	:*	0	:/Users/jaequery/Sites/iueast/public	1	zsh	:
+pane	manna	1	:emacs	0	:#	0	:/Users/jaequery/Sites/manna/public	1	emacs-24.5	:emacs js/jien.js
+pane	manna	2	:docker	0	: 	0	:/Users/jaequery/Sites/manna	1	zsh	:
+pane	manna	3	:live	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	manna	4	:git	0	:-	0	:/Users/jaequery/Sites/manna	1	zsh	:
+pane	manna	5	:zsh	0	: 	0	:/Users/jaequery/Sites/manna	1	zsh	:
+pane	manna	6	:zsh	0	: 	0	:/Users/jaequery	1	zsh	:
+pane	meteor	1	:emacs	0	:#-	0	:/Users/jaequery/Sites/meteor/mars	1	emacs-24.5	:emacs .
+pane	meteor	2	:zsh	1	:*	0	:/Users/jaequery/Sites/meteor/mars	1	zsh	:
+pane	meteor	3	:zsh	0	: 	0	:/Users/jaequery/Sites/meteor/mars	1	zsh	:
+pane	processing	1	:zsh	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL/MaxPayments/document_root/dev.maxpayments.net/htdocs/secure	1	zsh	:
+pane	processing	2	:git	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	3	:ssh	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	4	:ssh	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	5	:ssh	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	6	:live	1	:*	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	7	:zsh	0	:#-	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL/MaxPayments/libraries/Max/util	1	zsh	:
+pane	processing	8	:zsh	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL/MaxPayments/libraries/Max/util	1	zsh	:
+pane	processing	9	:zsh	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL/MaxPayments/libraries/Max/util	1	zsh	:
+pane	qujae	1	:zsh	1	:*	0	:/Users/jaequery/Sites/barowmy	1	emacs-24.5	:emacs
+pane	rapture	1	:emacs	0	:#-	0	:/Users/jaequery/Sites/rapture	1	emacs-24.5	:emacs .
+pane	rapture	2	:node	1	:*	0	:/Users/jaequery/Sites/rapture	1	zsh	:
+pane	rapture	3	:mongo	0	: 	0	:/Users/jaequery/Sites/rapture	1	zsh	:
+pane	rapture	4	:node	0	: 	0	:/Users/jaequery/Sites/rapture	1	zsh	:
+pane	react	1	:zsh	1	:*	0	:/Users/jaequery/Sites/react	1	zsh	:
+pane	stiqr	1	:emacs	0	:#	0	:/Users/jaequery/Sites/stiqr	1	emacs-24.5	:emacs
+pane	stiqr	3	:ssh	0	:-	0	:/Users/jaequery	1	zsh	:
+pane	stiqr	4	:zsh	1	:*	0	:/Users/jaequery/Sites/stiqr/public_html	1	zsh	:
+pane	transact	1	:emacs	1	:*	0	:/Users/jaequery/Sites/transact/Padrino	1	emacs-24.5	:emacs .
+window	calendar	1	1	:*	d5be,196x59,0,0,1
+window	calendar	2	0	: 	d5bf,196x59,0,0,2
+window	calendar	3	0	: 	d5c0,196x59,0,0,3
+window	calendar	4	0	:-	d5c1,196x59,0,0,4
+window	honeybadger	1	1	:*	cdc2,196x57,0,0,5
+window	honeybadger	2	0	: 	cdc3,196x57,0,0,6
+window	honeybadger	3	0	: 	cdc4,196x57,0,0,7
+window	honeybadger	4	0	: 	e717,196x57,0,0,47
+window	honeybadger	5	0	:-	e718,196x57,0,0,48
+window	huske	1	0	:#	9db1,196x59,0,0{135x59,0,0,8,60x59,136,0,9}
+window	huske	2	1	:*	6b0f,196x59,0,0,10
+window	huske	3	0	:-	6b10,196x59,0,0,11
+window	huske	4	0	:#	6b11,196x59,0,0,12
+window	huske	5	0	: 	6b12,196x59,0,0,13
+window	iueast	1	0	:#-	6b13,196x59,0,0,14
+window	iueast	2	0	: 	6b14,196x59,0,0,15
+window	iueast	3	0	: 	6b15,196x59,0,0,16
+window	iueast	4	0	: 	6b16,196x59,0,0,17
+window	iueast	5	0	: 	6b17,196x59,0,0,18
+window	iueast	6	1	:*	6b18,196x59,0,0,19
+window	manna	1	0	:#	eb0f,196x59,0,0,20
+window	manna	2	0	: 	eb10,196x59,0,0,21
+window	manna	3	1	:*	eb11,196x59,0,0,22
+window	manna	4	0	:-	eb12,196x59,0,0,23
+window	manna	5	0	: 	eb13,196x59,0,0,24
+window	manna	6	0	: 	eb14,196x59,0,0,25
+window	meteor	1	0	:#-	eb15,196x59,0,0,26
+window	meteor	2	1	:*	eb16,196x59,0,0,27
+window	meteor	3	0	: 	eb17,196x59,0,0,28
+window	processing	1	0	:#	e718,196x57,0,0,29
+window	processing	2	0	:#	6710,196x57,0,0,30
+window	processing	3	0	:#	6711,196x57,0,0,31
+window	processing	4	0	:#	6712,196x57,0,0,32
+window	processing	5	0	:#	6713,196x57,0,0,33
+window	processing	6	1	:*	6714,196x57,0,0,34
+window	processing	7	0	:#-	6715,196x57,0,0,35
+window	processing	8	0	:#	6716,196x57,0,0,36
+window	processing	9	0	:#	6717,196x57,0,0,37
+window	qujae	1	1	:*	6b18,196x59,0,0,38
+window	rapture	1	0	:#-	6b19,196x59,0,0,39
+window	rapture	2	1	:*	eb10,196x59,0,0,40
+window	rapture	3	0	: 	eb11,196x59,0,0,41
+window	rapture	4	0	: 	eb12,196x59,0,0,42
+window	react	1	1	:*	eb13,196x59,0,0,43
+window	stiqr	1	0	:#	eb14,196x59,0,0,44
+window	stiqr	3	0	:-	eb15,196x59,0,0,45
+window	stiqr	4	1	:*	eb16,196x59,0,0,46
+window	transact	1	1	:*	cdbd,196x57,0,0,0
+state	transact	honeybadger

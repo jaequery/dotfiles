@@ -1,0 +1,39 @@
+pane	0	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	16	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	17	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	19	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	20	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	23	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	24	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	26	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	3	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	30	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	5	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	8	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	9	1	:zsh	1	:*	0	:/Users/jaequery	1	zsh	:
+pane	transact	1	:server	0	:-	0	:/Users/jaequery/Sites/transact	1	bash	:/bin/bash ./reset.sh
+pane	transact	2	:test	0	:#	0	:/Users/jaequery/Sites/transact	1	zsh	:
+pane	transact	3	:tasks	0	:#	0	:/Users/jaequery/Sites/transact	1	zsh	:
+pane	transact	4	:cli	0	:#	0	:/Users/jaequery/Sites/transact	1	zsh	:
+pane	transact	5	:console	0	:#	0	:/Users/jaequery/Sites/transact	1	zsh	:
+pane	transact	6	:docker	1	:*	0	:/Users/jaequery/Sites/transact	1	zsh	:
+window	0	1	1	:*	c8bd,156x37,0,0,0
+window	16	1	1	:*	c8be,156x37,0,0,1
+window	17	1	1	:*	c8bf,156x37,0,0,2
+window	19	1	1	:*	c8c0,156x37,0,0,3
+window	20	1	1	:*	c8c1,156x37,0,0,4
+window	23	1	1	:*	c8c2,156x37,0,0,5
+window	24	1	1	:*	c8c3,156x37,0,0,6
+window	26	1	1	:*	c8c4,156x37,0,0,7
+window	3	1	1	:*	c8c5,156x37,0,0,8
+window	30	1	1	:*	c8c6,156x37,0,0,9
+window	5	1	1	:*	648f,156x37,0,0,10
+window	8	1	1	:*	6490,156x37,0,0,11
+window	9	1	1	:*	6491,156x37,0,0,12
+window	transact	1	0	:-	6492,156x37,0,0,13
+window	transact	2	0	:#	6493,156x37,0,0,14
+window	transact	3	0	:#	6494,156x37,0,0,15
+window	transact	4	0	:#	6495,156x37,0,0,16
+window	transact	5	0	:#	6496,156x37,0,0,17
+window	transact	6	1	:*	6497,156x37,0,0,18
+state	transact	transact

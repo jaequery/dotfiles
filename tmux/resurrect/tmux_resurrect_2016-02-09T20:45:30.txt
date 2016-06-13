@@ -1,0 +1,64 @@
+pane	calendar	1	:emacs	1	:*	0	:/Users/jaequery/Sites/calendar	1	emacs-24.5	:emacs .
+pane	calendar	2	:server	0	: 	0	:/Users/jaequery/Sites/calendar	1	zsh	:
+pane	calendar	3	:gulp	0	: 	0	:/Users/jaequery/Sites/calendar	1	zsh	:
+pane	calendar	4	:zsh	0	:-	0	:/Users/jaequery/Sites/calendar/app/src/css	1	zsh	:
+pane	gr00t	1	:emacs	1	:*	0	:/Users/jaequery/Sites/gr00t	1	zsh	:
+pane	honeybadger	1	:emacs	1	:*	0	:/Users/jaequery/Sites/honeybadger	1	emacs-24.5	:emacs .
+pane	honeybadger	2	:server	0	:-	0	:/Users/jaequery/Sites/honeybadger	1	zsh	:
+pane	honeybadger	3	:git	0	: 	0	:/Users/jaequery/Sites/honeybadger	1	zsh	:
+pane	honeybadger	4	:console	0	: 	0	:/Users/jaequery/Sites/honeybadger	1	zsh	:
+pane	honeybadger	5	:rspec	0	: 	0	:/Users/jaequery/Sites/honeybadger	1	zsh	:
+pane	honeybadger	6	:zsh	0	:#	0	:/Users/jaequery/Sites/honeybadger/public/blog	1	zsh	:
+pane	honeybadger	7	:profanity	0	: 	0	:/Users/jaequery/Sites/honeybadger	1	zsh	:
+pane	huske	1	:emacs	1	:*	0	:/Users/jaequery/Sites/huske/ruby/huske	1	emacs-24.5	:emacs .
+pane	huske	1	:emacs	1	:*	1	:/Users/jaequery/Sites/huske/ruby/huske	0	zsh	:
+pane	huske	2	:docker	0	:-	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	huske	3	:server	0	: 	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	huske	4	:zsh	0	: 	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	huske	5	:console	0	: 	0	:/Users/jaequery/Sites/huske/ruby/huske	1	zsh	:
+pane	meteor	1	:emacs	0	:#-	0	:/Users/jaequery/Sites/meteor/mars	1	emacs-24.5	:emacs .
+pane	meteor	2	:zsh	1	:*	0	:/Users/jaequery/Sites/meteor/mars	1	zsh	:
+pane	meteor	3	:zsh	0	:#	0	:/Users/jaequery/Sites/meteor/mars	1	zsh	:
+pane	processing	1	:zsh	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL/MaxPayments/document_root/dev.maxpayments.net/htdocs/secure	1	zsh	:
+pane	processing	2	:git	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	3	:ssh	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	4	:ssh	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	5	:ssh	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL	1	zsh	:
+pane	processing	6	:live	1	:*	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL/MaxPayments/libraries/Max/iso	1	zsh	:
+pane	processing	7	:zsh	0	:#-	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL/MaxPayments/libraries/Max/util	1	zsh	:
+pane	processing	8	:zsh	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL/MaxPayments/libraries/Max/util	1	zsh	:
+pane	processing	9	:zsh	0	:#	0	:/Users/jaequery/Sites/processing/CODE_BASES/LOCAL/MaxPayments/libraries/Max/util	1	zsh	:
+pane	transact	1	:emacs	1	:*	0	:/Users/jaequery/Sites/transact/Padrino	1	emacs-24.5	:emacs .
+pane	transact	2	:zsh	0	:-	0	:/Users/jaequery/Sites/transact/Padrino	1	zsh	:
+window	calendar	1	1	:*	c9be,158x37,0,0,1
+window	calendar	2	0	: 	c9bf,158x37,0,0,2
+window	calendar	3	0	: 	c9c0,158x37,0,0,3
+window	calendar	4	0	:-	c9c1,158x37,0,0,4
+window	gr00t	1	1	:*	c9c2,158x37,0,0,5
+window	honeybadger	1	1	:*	c9c3,158x37,0,0,6
+window	honeybadger	2	0	:-	c9c4,158x37,0,0,7
+window	honeybadger	3	0	: 	c9c5,158x37,0,0,8
+window	honeybadger	4	0	: 	c9c6,158x37,0,0,9
+window	honeybadger	5	0	: 	650f,158x37,0,0,10
+window	honeybadger	6	0	:#	6510,158x37,0,0,11
+window	honeybadger	7	0	: 	6511,158x37,0,0,12
+window	huske	1	1	:*	4363,158x37,0,0{116x37,0,0,14,41x37,117,0,15}
+window	huske	2	0	:-	6515,158x37,0,0,16
+window	huske	3	0	: 	6516,158x37,0,0,17
+window	huske	4	0	: 	6517,158x37,0,0,18
+window	huske	5	0	: 	6518,158x37,0,0,19
+window	meteor	1	0	:#-	6712,158x38,0,0,32
+window	meteor	2	1	:*	6713,158x38,0,0,33
+window	meteor	3	0	:#	6714,158x38,0,0,34
+window	processing	1	0	:#	6515,158x37,0,0,35
+window	processing	2	0	:#	6516,158x37,0,0,36
+window	processing	3	0	:#	6517,158x37,0,0,37
+window	processing	4	0	:#	6518,158x37,0,0,38
+window	processing	5	0	:#	6519,158x37,0,0,39
+window	processing	6	1	:*	e510,158x37,0,0,40
+window	processing	7	0	:#-	e511,158x37,0,0,41
+window	processing	8	0	:#	e512,158x37,0,0,42
+window	processing	9	0	:#	e513,158x37,0,0,43
+window	transact	1	1	:*	6514,158x37,0,0,53
+window	transact	2	0	:-	6515,158x37,0,0,54
+state	meteor	
