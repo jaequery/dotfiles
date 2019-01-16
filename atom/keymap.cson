@@ -1,59 +1,40 @@
 'body':
-  'cmd-x': 'command-palette:toggle'
+  'alt-s': 'core:save'
+  'alt-z': 'core:undo'
+  'ctrl--': 'core:undo'
+  'alt-a': 'core:select-all'
+  'alt-c': 'core:copy'
+  'shift-alt-v': 'core:paste'
+  'ctrl-g': 'core:cancel'
+  'alt-x': 'core:cut'
+  'shift-alt-Z': 'core:redo'
+  'alt-g alt-g': 'go-to-line:toggle'
 
-'body.platform-darwin':
-  'cmd-x': 'atomic-emacs:cut'
-  'cmd-c': 'atomic-emacs:copy'
-  'cmd-shift-v': 'core:paste'
-
-'atom-workspace atom-text-editor':
-  # Navigation
-  'cmd-b': 'atomic-emacs:backward-word'
-  'cmd-left': 'atomic-emacs:backward-word'
-  'cmd-f': 'atomic-emacs:forward-word'
-  'cmd-right': 'atomic-emacs:forward-word'
-  'cmd-[': 'atomic-emacs:backward-paragraph'
-  'cmd-]': 'atomic-emacs:forward-paragraph'
-  'cmd-m': 'atomic-emacs:back-to-indentation'
-  'cmd-<': 'core:move-to-top'
-  'cmd->': 'core:move-to-bottom'
-  'ctrl-a': 'editor:move-to-first-character-of-line'
-
-  # Killing & Yanking
-  'cmd-backspace': 'atomic-emacs:backward-kill-word'
-  'cmd-delete': 'atomic-emacs:backward-kill-word'
-  'cmd-d': 'atomic-emacs:kill-word'
-  #'cmd-w': 'atomic-emacs:copy-region-as-kill'
-  # 'cmd-shift-v': 'atomic-emacs:yank-pop'
-  # 'cmd-shift-y': 'atomic-emacs:yank-shift'
-
-  # Editing
-  'cmd-\\': 'atomic-emacs:delete-horizontal-space'
-  'cmd-^': 'atomic-emacs:delete-indentation'
-  'cmd-space': 'atomic-emacs:just-one-space'
-  'cmd-t': 'atomic-emacs:transpose-words'
-  'cmd-l': 'atomic-emacs:downcase-word-or-region'
-  'cmd-u': 'atomic-emacs:upcase-word-or-region'
-  #'cmd-c': 'atomic-emacs:capitalize-word-or-region'
-  'cmd-/': 'autocomplete-plus:activate'
-  'cmd-q': 'autoflow:reflow-selection'
-  'cmd-;': 'editor:toggle-line-comments'
-
-  # Marking & Selecting
-
-  # UI
-  'cmd-.': 'symbols-view:toggle-file-symbols'
-  'ctrl-s': 'incremental-search:forward'
-  'ctrl-r': 'incremental-search:backward'
-
-  # Scrolling
-  'cmd-v': 'atomic-emacs:scroll-down'
-
-'.platform-linux atom-workspace, .platform-win32 atom-workspace':
-  'cmd-g g': 'go-to-line:toggle'
-  'cmd-g cmd-g': 'go-to-line:toggle'
 
 '.platform-darwin':
-  'cmd-g g': 'go-to-line:toggle'
-  'cmd-g cmd-g': 'go-to-line:toggle'
+  'ctrl-x ctrl-f': 'fuzzy-finder:toggle-file-finder'
+
+'atom-text-editor':
+  'alt-left': 'editor:move-to-first-character-of-line'
+  'alt-right': 'editor:move-to-end-of-screen-line'
+  'shift-alt-left': 'editor:select-to-first-character-of-line'
+  'shift-alt-right': 'editor:select-to-end-of-line'
+  'shift-cmd-left': 'editor:select-to-beginning-of-word'
+  'shift-cmd-right': 'editor:select-to-end-of-word'
+  'cmd-left': 'editor:move-to-beginning-of-word'
+  'cmd-right': 'editor:move-to-end-of-word'
+  'ctrl-a': 'editor:move-to-first-character-of-line'
+  'ctrl-y': 'core:paste'
+  'alt-x': 'core:cut'
+
+'.workspace':
+  'cmd-shift-c': 'github:commit'
+  'alt-shift-g': 'github:toggle-git-tab'
+
+'atom-workspace atom-text-editor.emacs-plus:not([mini])':
+  'ctrl-alt-\\': 'editor:auto-indent'
+
+'.platform-darwin atom-text-editor.vim-mode-plus:not(.insert-mode)':
+  'ctrl-s': 'find-and-replace:find-next'
+
 
